@@ -4,7 +4,7 @@ A Fortnite Cleaner for Windows. Tested on x64 Windows 10 1507 (10240), 1809 (177
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img src="https://media.discordapp.net/attachments/888490416247275522/889823456454123540/unknown.png" />
+			<img src="https://media.discordapp.net/attachments/888490416247275522/889825155772194847/unknown.png" />
 		</td>
 	</tr>
 	<tr>
